@@ -7,8 +7,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @author Shavindya Kariyawasam
- * @author 16084809/1
- * @author 2015280
  */
 public class Path {
 	Node[][] nodes;
